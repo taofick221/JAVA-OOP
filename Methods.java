@@ -22,7 +22,7 @@ public class Methods {
         stu2.name="Md mhgff";
         stu2.id=22;
         stu2.cgpa=4;
-        stu2.displayinfo();
+//         stu2.displayinfo();
 
 
 
