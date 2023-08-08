@@ -21,7 +21,8 @@ public class Constructor {
     stu1.displayinfo();
 
         Constructor stu2= new Constructor("Md taofick",847,3.5);
-        stu2.displayinfo();
+        // stu2.displayinfo();
+         stu2.displayinfo();
     }
 }
 
